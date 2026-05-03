@@ -1,0 +1,41 @@
+﻿scenario_id,category,expected_type,system,decision_ease,satisfaction,confidence,cognitive_load_reduction,explanation_quality,personalization,purchase_intention,option_count,mentions_brainfry,mentions_consumer_type,has_critic
+S01,wireless earbuds,선택피로형,Baseline LLM,3,3,3,3,3,3,3,4,0,0,0
+S01,wireless earbuds,선택피로형,BrainFry Agent,5,4,5,5,5,5,4,3,1,1,1
+S02,tablet,후회 회피형,Baseline LLM,3,4,3,3,3,3,3,3,0,0,0
+S02,tablet,후회 회피형,BrainFry Agent,5,4,5,5,5,5,4,3,1,1,1
+S03,laptop,선택피로형,Baseline LLM,3,4,3,3,3,3,3,3,0,0,0
+S03,laptop,선택피로형,BrainFry Agent,5,4,5,5,5,5,4,3,1,1,1
+S04,cosmetics,완벽주의형,Baseline LLM,3,4,3,3,3,3,3,3,0,0,0
+S04,cosmetics,완벽주의형,BrainFry Agent,5,4,5,5,5,5,4,3,1,1,1
+S05,smartwatch,후회 회피형,Baseline LLM,3,4,3,3,3,3,3,3,0,0,0
+S05,smartwatch,후회 회피형,BrainFry Agent,5,4,5,5,5,5,4,3,1,1,1
+S06,headphones,가성비형,Baseline LLM,3,4,3,3,3,3,3,3,0,0,0
+S06,headphones,가성비형,BrainFry Agent,5,4,5,5,5,5,4,3,1,1,1
+S07,hotel,후회 회피형,Baseline LLM,3,4,3,3,3,3,3,3,0,0,0
+S07,hotel,후회 회피형,BrainFry Agent,5,4,5,5,5,5,4,3,1,1,1
+S08,chair,선택피로형,Baseline LLM,3,4,3,3,3,3,3,3,0,0,0
+S08,chair,선택피로형,BrainFry Agent,5,4,5,5,5,5,4,3,1,1,1
+S09,air purifier,후회 회피형,Baseline LLM,3,4,3,3,3,3,3,3,0,0,0
+S09,air purifier,후회 회피형,BrainFry Agent,5,4,5,5,5,5,4,3,1,1,1
+S10,microwave,충동형,Baseline LLM,3,4,3,3,3,3,3,3,0,0,0
+S10,microwave,충동형,BrainFry Agent,5,4,5,5,5,5,4,3,1,1,1
+S11,power bank,가성비형,Baseline LLM,3,4,3,3,3,3,3,3,0,0,0
+S11,power bank,가성비형,BrainFry Agent,5,4,5,5,5,5,4,3,1,1,1
+S12,perfume,완벽주의형,Baseline LLM,3,4,3,3,3,3,3,3,0,0,0
+S12,perfume,완벽주의형,BrainFry Agent,5,4,5,5,5,5,4,3,1,1,1
+S13,camera,선택피로형,Baseline LLM,3,4,3,3,3,3,3,3,0,0,0
+S13,camera,선택피로형,BrainFry Agent,5,4,5,5,5,5,4,3,1,1,1
+S14,running shoes,선택피로형,Baseline LLM,3,4,3,3,3,3,3,3,0,0,0
+S14,running shoes,선택피로형,BrainFry Agent,5,4,5,5,5,5,4,3,1,1,1
+S15,monitor,완벽주의형,Baseline LLM,3,4,3,3,3,3,3,3,0,0,0
+S15,monitor,완벽주의형,BrainFry Agent,5,4,5,5,5,5,4,3,1,1,1
+S16,keyboard,선택피로형,Baseline LLM,3,4,3,3,3,3,3,3,0,0,0
+S16,keyboard,선택피로형,BrainFry Agent,5,4,5,5,5,5,4,3,1,1,1
+S17,bag,후회 회피형,Baseline LLM,3,4,3,3,3,3,3,3,0,0,0
+S17,bag,후회 회피형,BrainFry Agent,5,4,5,5,5,5,4,3,1,1,1
+S18,vacuum cleaner,가성비형,Baseline LLM,3,4,3,3,3,3,3,3,0,0,0
+S18,vacuum cleaner,가성비형,BrainFry Agent,5,4,5,5,5,5,4,3,1,1,1
+S19,coffee machine,후회 회피형,Baseline LLM,3,4,3,3,3,3,3,3,0,0,0
+S19,coffee machine,후회 회피형,BrainFry Agent,5,4,5,5,5,5,4,3,1,1,1
+S20,gift,후회 회피형,Baseline LLM,3,4,3,3,3,3,3,3,0,0,0
+S20,gift,후회 회피형,BrainFry Agent,5,4,5,5,5,5,4,3,1,1,1

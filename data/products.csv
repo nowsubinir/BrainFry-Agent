@@ -1,0 +1,62 @@
+name,category,price,comfort,call_quality,battery,noise_canceling,review_summary
+Galaxy Buds FE,wireless earbuds,129000,4,4,4,3,가성비와 착용감이 좋고 통화 품질도 균형적임
+AirPods 2,wireless earbuds,159000,4,4,3,2,iPhone 연동성이 좋고 사용 편의성이 높음
+QCY HT Series,wireless earbuds,59000,3,3,3,3,가격이 매우 낮고 기본 기능이 무난함
+Anker Soundcore Liberty 4 NC,wireless earbuds,129000,4,4,5,5,배터리와 노이즈캔슬링이 강점인 중가형 선택지
+iPad Air,tablet,929000,4,4,4,3,필기와 영상 감상에 균형적인 고성능 태블릿
+Galaxy Tab S9 FE,tablet,629000,4,4,4,3,필기용 S펜 포함과 합리적 가격이 장점
+iPad 10th Gen,tablet,529000,3,3,4,2,입문용으로 무난하고 앱 생태계가 강점
+LG Gram 14,laptop,1190000,5,4,4,2,가벼운 무게와 휴대성이 강점
+Galaxy Book 4,laptop,1050000,4,4,4,2,문서 작업과 휴대성의 균형이 좋음
+Lenovo IdeaPad Slim,laptop,790000,3,3,4,1,가격 대비 기본 성능이 좋음
+Hera Black Cushion,cosmetics,72000,4,4,3,1,커버력과 지속력이 강점
+Clio Kill Cover,cosmetics,35000,4,3,3,1,가성비와 커버력이 좋은 선택
+Etude Foundation,cosmetics,28000,3,3,3,1,저렴하고 접근성이 좋은 기본 파운데이션
+Apple Watch SE,smartwatch,329000,4,4,4,2,iPhone 사용자에게 가장 안정적인 선택
+Galaxy Watch FE,smartwatch,249000,4,4,4,2,Android 사용자에게 합리적인 선택
+Amazfit Active,smartwatch,169000,3,3,5,1,배터리와 가격이 강점
+Sony WH-CH720N,headphones,149000,4,4,4,4,가격 대비 노이즈캔슬링이 좋음
+Anker Q45,headphones,129000,4,4,5,4,가성비와 배터리 성능이 강점
+Bose QC,headphones,399000,5,5,4,5,착용감과 ANC가 우수하지만 고가
+Business Hotel A,hotel,90000,3,3,3,1,가격이 낮고 위치가 무난함
+Comfort Hotel B,hotel,140000,4,4,3,1,후기 안정성과 청결도가 좋음
+Premium Hotel C,hotel,220000,5,5,4,1,만족도는 높지만 예산 부담이 있음
+Sidiz T50,chair,289000,5,4,4,1,허리 지지와 장시간 착석에 안정적
+IKEA Markus,chair,199000,4,3,4,1,가격 대비 편안함이 좋음
+Budget Mesh Chair,chair,89000,3,3,3,1,저렴하지만 장시간 사용성은 보통
+Samsung Air Purifier,air purifier,299000,4,4,4,1,성능과 AS가 안정적인 선택
+Xiaomi Air Purifier,air purifier,159000,3,3,4,1,가성비가 좋은 선택
+LG PuriCare,air purifier,449000,5,5,4,1,성능은 높지만 가격 부담이 큼
+Samsung Microwave Basic,microwave,89000,3,3,3,1,기본 기능과 AS가 안정적
+LG Microwave Basic,microwave,99000,3,3,3,1,기본 조리용으로 무난함
+Budget Microwave,microwave,59000,2,2,2,1,저렴하지만 기능은 제한적
+Anker 10000mAh,power bank,39000,4,4,4,1,안정성과 휴대성 균형
+Xiaomi 20000mAh,power bank,33000,3,3,5,1,용량 대비 가격이 좋음
+Samsung Battery Pack,power bank,45000,4,4,4,1,호환성과 안정성이 좋음
+Clean Warm Cotton,perfume,59000,4,4,3,1,무난하고 실패 확률이 낮은 향
+Jo Malone Peony,perfume,119000,5,4,3,1,선물용으로 선호도가 높음
+Zara Seoul,perfume,29000,3,3,3,1,저렴하게 시도하기 좋음
+Sony ZV-E10,camera,890000,4,4,4,2,입문 영상과 사진 모두에 적합
+Canon R50,camera,790000,4,4,4,2,입문자가 쓰기 쉬움
+Fujifilm X-T30 II,camera,1190000,5,4,4,2,색감이 좋지만 가격이 높음
+Nike Pegasus,running shoes,139000,4,4,4,1,입문 러닝화로 무난함
+Asics Gel-Cumulus,running shoes,159000,5,4,4,1,쿠션과 안정성이 좋음
+Adidas Duramo,running shoes,79000,3,3,3,1,가성비가 좋음
+LG 27 QHD Monitor,monitor,299000,4,4,4,1,논문 작업용 QHD 해상도와 크기 균형
+Samsung 24 FHD Monitor,monitor,159000,3,3,3,1,저렴한 기본 문서 작업용
+Dell Ultrasharp 27,monitor,499000,5,5,4,1,화질과 색 정확도가 좋지만 고가
+Keychron K2,keyboard,129000,4,4,4,1,입문 기계식으로 균형적
+Logitech MX Keys,keyboard,139000,5,4,4,1,조용하고 문서 작업에 적합
+ABKO Mechanical,keyboard,59000,3,3,3,1,저렴한 기계식 입문용
+Samsonite Backpack,bag,149000,4,4,4,1,내구성과 수납이 안정적
+Targus Laptop Bag,bag,69000,3,3,3,1,가격 대비 기본 기능이 좋음
+Premium Leather Bag,bag,299000,5,4,4,1,오래 쓰기 좋지만 가격 부담
+Samsung Jet,vacuum cleaner,299000,4,4,4,1,예산 내 성능과 AS가 안정적
+Xiaomi Vacuum,vacuum cleaner,199000,3,3,4,1,가성비가 좋음
+LG CordZero,vacuum cleaner,499000,5,5,4,1,성능은 좋지만 예산 초과 가능
+Nespresso Essenza Mini,coffee machine,179000,4,4,3,1,입문 홈카페용으로 간단함
+Philips Drip Coffee Maker,coffee machine,69000,3,3,3,1,저렴하고 관리가 쉬움
+Breville Bambino,coffee machine,499000,5,5,4,1,품질은 좋지만 가격 부담
+Kakao Gift Card,gift,30000,4,4,3,1,실패 확률이 낮고 선택권을 줌
+Hand Cream Gift Set,gift,25000,3,3,3,1,무난한 생일 선물
+Wireless Earbuds Gift,gift,129000,4,4,4,3,실용적이지만 예산 부담 가능

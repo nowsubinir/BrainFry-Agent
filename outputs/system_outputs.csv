@@ -1,0 +1,462 @@
+﻿scenario_id,system,user_input,output
+S01,Baseline LLM,무선 이어폰 사고 싶은데 유튜브 리뷰만 2시간 봤어요. 예산은 15만 원인데 더 헷갈려요.,"Baseline LLM Recommendation:
+조건에 맞춰 다음 후보들을 비교해볼 수 있습니다.
+1. QCY HT Series (59,000원): 가격이 매우 낮고 기본 기능이 무난함
+2. Galaxy Buds FE (129,000원): 가성비와 착용감이 좋고 통화 품질도 균형적임
+3. Anker Soundcore Liberty 4 NC (129,000원): 배터리와 노이즈캔슬링이 강점인 중가형 선택지
+4. AirPods 2 (159,000원): iPhone 연동성이 좋고 사용 편의성이 높음
+각 제품의 가격, 리뷰, 브랜드 선호도, 세부 기능을 추가로 비교한 뒤 선택하세요."
+S01,BrainFry Agent,무선 이어폰 사고 싶은데 유튜브 리뷰만 2시간 봤어요. 예산은 15만 원인데 더 헷갈려요.,"BrainFry Agent Recommendation:
+BrainFry Level: Moderate
+Detected Signals: 긴 고민 시간, 과도한 리뷰/비교, 확신 부족/혼란
+Consumer Type: 가성비형
+핵심 조건: 예산 150,000원 / 우선순위 착용감, 통화 품질
+정보 부담을 줄이기 위해 선택지를 제한합니다.
+1순위: Galaxy Buds FE (129,000원)
+- 이유: 예산 안에 들어옴, 착용감 점수가 높음, 통화 품질 점수가 높음
+- 리뷰 요약: 가성비와 착용감이 좋고 통화 품질도 균형적임
+2순위: Anker Soundcore Liberty 4 NC (129,000원)
+- 이유: 예산 안에 들어옴, 착용감 점수가 높음, 통화 품질 점수가 높음
+- 리뷰 요약: 배터리와 노이즈캔슬링이 강점인 중가형 선택지
+3순위: QCY HT Series (59,000원)
+- 이유: 예산 안에 들어옴
+- 리뷰 요약: 가격이 매우 낮고 기본 기능이 무난함
+현재 조건에서는 Galaxy Buds FE이 충분히 합리적인 선택입니다.
+Critic Agent: 예산, 우선순위, 추천 개수, 구매 압박 표현을 점검했습니다."
+S02,Baseline LLM,아이패드 살지 갤럭시탭 살지 며칠째 고민 중이에요. 필기랑 영상용이에요.,"Baseline LLM Recommendation:
+조건에 맞춰 다음 후보들을 비교해볼 수 있습니다.
+1. iPad 10th Gen (529,000원): 입문용으로 무난하고 앱 생태계가 강점
+2. Galaxy Tab S9 FE (629,000원): 필기용 S펜 포함과 합리적 가격이 장점
+3. iPad Air (929,000원): 필기와 영상 감상에 균형적인 고성능 태블릿
+각 제품의 가격, 리뷰, 브랜드 선호도, 세부 기능을 추가로 비교한 뒤 선택하세요."
+S02,BrainFry Agent,아이패드 살지 갤럭시탭 살지 며칠째 고민 중이에요. 필기랑 영상용이에요.,"BrainFry Agent Recommendation:
+BrainFry Level: Moderate
+Detected Signals: 긴 고민 시간, 과도한 리뷰/비교
+Consumer Type: 선택피로형
+핵심 조건: 예산 150,000원 / 우선순위 착용감, 통화 품질
+정보 부담을 줄이기 위해 선택지를 제한합니다.
+1순위: iPad Air (929,000원)
+- 이유: 예산 초과 대안, 착용감 점수가 높음, 통화 품질 점수가 높음
+- 리뷰 요약: 필기와 영상 감상에 균형적인 고성능 태블릿
+2순위: Galaxy Tab S9 FE (629,000원)
+- 이유: 예산 초과 대안, 착용감 점수가 높음, 통화 품질 점수가 높음
+- 리뷰 요약: 필기용 S펜 포함과 합리적 가격이 장점
+3순위: iPad 10th Gen (529,000원)
+- 이유: 예산 초과 대안
+- 리뷰 요약: 입문용으로 무난하고 앱 생태계가 강점
+현재 조건에서는 iPad Air이 충분히 합리적인 선택입니다.
+Critic Agent: 예산, 우선순위, 추천 개수, 구매 압박 표현을 점검했습니다."
+S03,Baseline LLM,대학원생인데 가벼운 노트북이 필요해요. 그런데 모델이 너무 많아서 못 고르겠어요.,"Baseline LLM Recommendation:
+조건에 맞춰 다음 후보들을 비교해볼 수 있습니다.
+1. Lenovo IdeaPad Slim (790,000원): 가격 대비 기본 성능이 좋음
+2. Galaxy Book 4 (1,050,000원): 문서 작업과 휴대성의 균형이 좋음
+3. LG Gram 14 (1,190,000원): 가벼운 무게와 휴대성이 강점
+각 제품의 가격, 리뷰, 브랜드 선호도, 세부 기능을 추가로 비교한 뒤 선택하세요."
+S03,BrainFry Agent,대학원생인데 가벼운 노트북이 필요해요. 그런데 모델이 너무 많아서 못 고르겠어요.,"BrainFry Agent Recommendation:
+BrainFry Level: Moderate
+Detected Signals: 과도한 리뷰/비교, 확신 부족/혼란
+Consumer Type: 선택피로형
+핵심 조건: 예산 150,000원 / 우선순위 착용감, 통화 품질
+정보 부담을 줄이기 위해 선택지를 제한합니다.
+1순위: LG Gram 14 (1,190,000원)
+- 이유: 예산 초과 대안, 착용감 점수가 높음, 통화 품질 점수가 높음
+- 리뷰 요약: 가벼운 무게와 휴대성이 강점
+2순위: Galaxy Book 4 (1,050,000원)
+- 이유: 예산 초과 대안, 착용감 점수가 높음, 통화 품질 점수가 높음
+- 리뷰 요약: 문서 작업과 휴대성의 균형이 좋음
+3순위: Lenovo IdeaPad Slim (790,000원)
+- 이유: 예산 초과 대안
+- 리뷰 요약: 가격 대비 기본 성능이 좋음
+현재 조건에서는 LG Gram 14이 충분히 합리적인 선택입니다.
+Critic Agent: 예산, 우선순위, 추천 개수, 구매 압박 표현을 점검했습니다."
+S04,Baseline LLM,파운데이션 후기를 너무 많이 봐서 뭐가 제 피부에 맞는지 모르겠어요.,"Baseline LLM Recommendation:
+조건에 맞춰 다음 후보들을 비교해볼 수 있습니다.
+1. Etude Foundation (28,000원): 저렴하고 접근성이 좋은 기본 파운데이션
+2. Clio Kill Cover (35,000원): 가성비와 커버력이 좋은 선택
+3. Hera Black Cushion (72,000원): 커버력과 지속력이 강점
+각 제품의 가격, 리뷰, 브랜드 선호도, 세부 기능을 추가로 비교한 뒤 선택하세요."
+S04,BrainFry Agent,파운데이션 후기를 너무 많이 봐서 뭐가 제 피부에 맞는지 모르겠어요.,"BrainFry Agent Recommendation:
+BrainFry Level: Moderate
+Detected Signals: 과도한 리뷰/비교, 확신 부족/혼란
+Consumer Type: 선택피로형
+핵심 조건: 예산 150,000원 / 우선순위 착용감, 통화 품질
+정보 부담을 줄이기 위해 선택지를 제한합니다.
+1순위: Hera Black Cushion (72,000원)
+- 이유: 예산 안에 들어옴, 착용감 점수가 높음, 통화 품질 점수가 높음
+- 리뷰 요약: 커버력과 지속력이 강점
+2순위: Clio Kill Cover (35,000원)
+- 이유: 예산 안에 들어옴, 착용감 점수가 높음
+- 리뷰 요약: 가성비와 커버력이 좋은 선택
+3순위: Etude Foundation (28,000원)
+- 이유: 예산 안에 들어옴
+- 리뷰 요약: 저렴하고 접근성이 좋은 기본 파운데이션
+현재 조건에서는 Hera Black Cushion이 충분히 합리적인 선택입니다.
+Critic Agent: 예산, 우선순위, 추천 개수, 구매 압박 표현을 점검했습니다."
+S05,Baseline LLM,애플워치랑 갤럭시워치 비교 영상을 계속 봤는데 결정이 안 돼요.,"Baseline LLM Recommendation:
+조건에 맞춰 다음 후보들을 비교해볼 수 있습니다.
+1. Amazfit Active (169,000원): 배터리와 가격이 강점
+2. Galaxy Watch FE (249,000원): Android 사용자에게 합리적인 선택
+3. Apple Watch SE (329,000원): iPhone 사용자에게 가장 안정적인 선택
+각 제품의 가격, 리뷰, 브랜드 선호도, 세부 기능을 추가로 비교한 뒤 선택하세요."
+S05,BrainFry Agent,애플워치랑 갤럭시워치 비교 영상을 계속 봤는데 결정이 안 돼요.,"BrainFry Agent Recommendation:
+BrainFry Level: Moderate
+Detected Signals: 긴 고민 시간, 과도한 리뷰/비교, 확신 부족/혼란
+Consumer Type: 선택피로형
+핵심 조건: 예산 150,000원 / 우선순위 착용감, 통화 품질
+정보 부담을 줄이기 위해 선택지를 제한합니다.
+1순위: Apple Watch SE (329,000원)
+- 이유: 예산 초과 대안, 착용감 점수가 높음, 통화 품질 점수가 높음
+- 리뷰 요약: iPhone 사용자에게 가장 안정적인 선택
+2순위: Galaxy Watch FE (249,000원)
+- 이유: 예산 초과 대안, 착용감 점수가 높음, 통화 품질 점수가 높음
+- 리뷰 요약: Android 사용자에게 합리적인 선택
+3순위: Amazfit Active (169,000원)
+- 이유: 예산 초과 대안
+- 리뷰 요약: 배터리와 가격이 강점
+현재 조건에서는 Apple Watch SE이 충분히 합리적인 선택입니다.
+Critic Agent: 예산, 우선순위, 추천 개수, 구매 압박 표현을 점검했습니다."
+S06,Baseline LLM,노이즈캔슬링 헤드폰 사고 싶은데 가격 차이가 커서 고민돼요.,"Baseline LLM Recommendation:
+조건에 맞춰 다음 후보들을 비교해볼 수 있습니다.
+1. Anker Q45 (129,000원): 가성비와 배터리 성능이 강점
+2. Sony WH-CH720N (149,000원): 가격 대비 노이즈캔슬링이 좋음
+3. Bose QC (399,000원): 착용감과 ANC가 우수하지만 고가
+각 제품의 가격, 리뷰, 브랜드 선호도, 세부 기능을 추가로 비교한 뒤 선택하세요."
+S06,BrainFry Agent,노이즈캔슬링 헤드폰 사고 싶은데 가격 차이가 커서 고민돼요.,"BrainFry Agent Recommendation:
+BrainFry Level: Low
+Detected Signals: None
+Consumer Type: 가성비형
+핵심 조건: 예산 150,000원 / 우선순위 노이즈캔슬링
+정보 부담을 줄이기 위해 선택지를 제한합니다.
+1순위: Anker Q45 (129,000원)
+- 이유: 예산 안에 들어옴, 노이즈캔슬링 점수가 높음
+- 리뷰 요약: 가성비와 배터리 성능이 강점
+2순위: Sony WH-CH720N (149,000원)
+- 이유: 예산 안에 들어옴, 노이즈캔슬링 점수가 높음
+- 리뷰 요약: 가격 대비 노이즈캔슬링이 좋음
+3순위: Bose QC (399,000원)
+- 이유: 예산 초과 대안, 노이즈캔슬링 점수가 높음
+- 리뷰 요약: 착용감과 ANC가 우수하지만 고가
+현재 조건에서는 Anker Q45이 충분히 합리적인 선택입니다.
+Critic Agent: 예산, 우선순위, 추천 개수, 구매 압박 표현을 점검했습니다."
+S07,Baseline LLM,호텔 후기를 너무 많이 읽어서 오히려 다 단점만 보여요.,"Baseline LLM Recommendation:
+조건에 맞춰 다음 후보들을 비교해볼 수 있습니다.
+1. Business Hotel A (90,000원): 가격이 낮고 위치가 무난함
+2. Comfort Hotel B (140,000원): 후기 안정성과 청결도가 좋음
+3. Premium Hotel C (220,000원): 만족도는 높지만 예산 부담이 있음
+각 제품의 가격, 리뷰, 브랜드 선호도, 세부 기능을 추가로 비교한 뒤 선택하세요."
+S07,BrainFry Agent,호텔 후기를 너무 많이 읽어서 오히려 다 단점만 보여요.,"BrainFry Agent Recommendation:
+BrainFry Level: Low
+Detected Signals: 과도한 리뷰/비교
+Consumer Type: 일반형
+핵심 조건: 예산 150,000원 / 우선순위 착용감, 통화 품질
+정보 부담을 줄이기 위해 선택지를 제한합니다.
+1순위: Comfort Hotel B (140,000원)
+- 이유: 예산 안에 들어옴, 착용감 점수가 높음, 통화 품질 점수가 높음
+- 리뷰 요약: 후기 안정성과 청결도가 좋음
+2순위: Premium Hotel C (220,000원)
+- 이유: 예산 초과 대안, 착용감 점수가 높음, 통화 품질 점수가 높음
+- 리뷰 요약: 만족도는 높지만 예산 부담이 있음
+3순위: Business Hotel A (90,000원)
+- 이유: 예산 안에 들어옴
+- 리뷰 요약: 가격이 낮고 위치가 무난함
+현재 조건에서는 Comfort Hotel B이 충분히 합리적인 선택입니다.
+Critic Agent: 예산, 우선순위, 추천 개수, 구매 압박 표현을 점검했습니다."
+S08,Baseline LLM,허리 편한 의자 찾는데 리뷰가 다 달라서 못 고르겠어요.,"Baseline LLM Recommendation:
+조건에 맞춰 다음 후보들을 비교해볼 수 있습니다.
+1. Budget Mesh Chair (89,000원): 저렴하지만 장시간 사용성은 보통
+2. IKEA Markus (199,000원): 가격 대비 편안함이 좋음
+3. Sidiz T50 (289,000원): 허리 지지와 장시간 착석에 안정적
+각 제품의 가격, 리뷰, 브랜드 선호도, 세부 기능을 추가로 비교한 뒤 선택하세요."
+S08,BrainFry Agent,허리 편한 의자 찾는데 리뷰가 다 달라서 못 고르겠어요.,"BrainFry Agent Recommendation:
+BrainFry Level: Moderate
+Detected Signals: 과도한 리뷰/비교, 확신 부족/혼란
+Consumer Type: 선택피로형
+핵심 조건: 예산 150,000원 / 우선순위 착용감
+정보 부담을 줄이기 위해 선택지를 제한합니다.
+1순위: Budget Mesh Chair (89,000원)
+- 이유: 예산 안에 들어옴
+- 리뷰 요약: 저렴하지만 장시간 사용성은 보통
+2순위: Sidiz T50 (289,000원)
+- 이유: 예산 초과 대안, 착용감 점수가 높음
+- 리뷰 요약: 허리 지지와 장시간 착석에 안정적
+3순위: IKEA Markus (199,000원)
+- 이유: 예산 초과 대안, 착용감 점수가 높음
+- 리뷰 요약: 가격 대비 편안함이 좋음
+현재 조건에서는 Budget Mesh Chair이 충분히 합리적인 선택입니다.
+Critic Agent: 예산, 우선순위, 추천 개수, 구매 압박 표현을 점검했습니다."
+S09,Baseline LLM,비싼 제품이 좋을 것 같긴 한데 돈 낭비일까 봐 걱정돼요.,"Baseline LLM Recommendation:
+조건에 맞춰 다음 후보들을 비교해볼 수 있습니다.
+1. Xiaomi Air Purifier (159,000원): 가성비가 좋은 선택
+2. Samsung Air Purifier (299,000원): 성능과 AS가 안정적인 선택
+3. LG PuriCare (449,000원): 성능은 높지만 가격 부담이 큼
+각 제품의 가격, 리뷰, 브랜드 선호도, 세부 기능을 추가로 비교한 뒤 선택하세요."
+S09,BrainFry Agent,비싼 제품이 좋을 것 같긴 한데 돈 낭비일까 봐 걱정돼요.,"BrainFry Agent Recommendation:
+BrainFry Level: Low
+Detected Signals: 후회 걱정
+Consumer Type: 후회 회피형
+핵심 조건: 예산 150,000원 / 우선순위 착용감, 통화 품질
+정보 부담을 줄이기 위해 선택지를 제한합니다.
+1순위: LG PuriCare (449,000원)
+- 이유: 예산 초과 대안, 착용감 점수가 높음, 통화 품질 점수가 높음
+- 리뷰 요약: 성능은 높지만 가격 부담이 큼
+2순위: Samsung Air Purifier (299,000원)
+- 이유: 예산 초과 대안, 착용감 점수가 높음, 통화 품질 점수가 높음
+- 리뷰 요약: 성능과 AS가 안정적인 선택
+3순위: Xiaomi Air Purifier (159,000원)
+- 이유: 예산 초과 대안
+- 리뷰 요약: 가성비가 좋은 선택
+현재 조건에서는 LG PuriCare이 충분히 합리적인 선택입니다.
+Critic Agent: 예산, 우선순위, 추천 개수, 구매 압박 표현을 점검했습니다."
+S10,Baseline LLM,그냥 할인하는 거 바로 사도 될까요? 귀찮아서 빨리 사고 싶어요.,"Baseline LLM Recommendation:
+조건에 맞춰 다음 후보들을 비교해볼 수 있습니다.
+1. Budget Microwave (59,000원): 저렴하지만 기능은 제한적
+2. Samsung Microwave Basic (89,000원): 기본 기능과 AS가 안정적
+3. LG Microwave Basic (99,000원): 기본 조리용으로 무난함
+각 제품의 가격, 리뷰, 브랜드 선호도, 세부 기능을 추가로 비교한 뒤 선택하세요."
+S10,BrainFry Agent,그냥 할인하는 거 바로 사도 될까요? 귀찮아서 빨리 사고 싶어요.,"BrainFry Agent Recommendation:
+BrainFry Level: Low
+Detected Signals: 선택 회피/지연
+Consumer Type: 충동형
+핵심 조건: 예산 150,000원 / 우선순위 착용감
+정보 부담을 줄이기 위해 선택지를 제한합니다.
+1순위: Samsung Microwave Basic (89,000원)
+- 이유: 예산 안에 들어옴
+- 리뷰 요약: 기본 기능과 AS가 안정적
+2순위: LG Microwave Basic (99,000원)
+- 이유: 예산 안에 들어옴
+- 리뷰 요약: 기본 조리용으로 무난함
+3순위: Budget Microwave (59,000원)
+- 이유: 예산 안에 들어옴
+- 리뷰 요약: 저렴하지만 기능은 제한적
+현재 조건에서는 Samsung Microwave Basic이 충분히 합리적인 선택입니다.
+Critic Agent: 예산, 우선순위, 추천 개수, 구매 압박 표현을 점검했습니다."
+S11,Baseline LLM,가격 싼 것 중에서 괜찮은 걸 사고 싶은데 종류가 너무 많아요.,"Baseline LLM Recommendation:
+조건에 맞춰 다음 후보들을 비교해볼 수 있습니다.
+1. Xiaomi 20000mAh (33,000원): 용량 대비 가격이 좋음
+2. Anker 10000mAh (39,000원): 안정성과 휴대성 균형
+3. Samsung Battery Pack (45,000원): 호환성과 안정성이 좋음
+각 제품의 가격, 리뷰, 브랜드 선호도, 세부 기능을 추가로 비교한 뒤 선택하세요."
+S11,BrainFry Agent,가격 싼 것 중에서 괜찮은 걸 사고 싶은데 종류가 너무 많아요.,"BrainFry Agent Recommendation:
+BrainFry Level: Low
+Detected Signals: 과도한 리뷰/비교
+Consumer Type: 가성비형
+핵심 조건: 예산 150,000원 / 우선순위 착용감, 통화 품질
+정보 부담을 줄이기 위해 선택지를 제한합니다.
+1순위: Anker 10000mAh (39,000원)
+- 이유: 예산 안에 들어옴, 착용감 점수가 높음, 통화 품질 점수가 높음
+- 리뷰 요약: 안정성과 휴대성 균형
+2순위: Samsung Battery Pack (45,000원)
+- 이유: 예산 안에 들어옴, 착용감 점수가 높음, 통화 품질 점수가 높음
+- 리뷰 요약: 호환성과 안정성이 좋음
+3순위: Xiaomi 20000mAh (33,000원)
+- 이유: 예산 안에 들어옴
+- 리뷰 요약: 용량 대비 가격이 좋음
+현재 조건에서는 Anker 10000mAh이 충분히 합리적인 선택입니다.
+Critic Agent: 예산, 우선순위, 추천 개수, 구매 압박 표현을 점검했습니다."
+S12,Baseline LLM,향수 추천 영상을 많이 봤는데 다 좋아 보여서 선택을 못 하겠어요.,"Baseline LLM Recommendation:
+조건에 맞춰 다음 후보들을 비교해볼 수 있습니다.
+1. Zara Seoul (29,000원): 저렴하게 시도하기 좋음
+2. Clean Warm Cotton (59,000원): 무난하고 실패 확률이 낮은 향
+3. Jo Malone Peony (119,000원): 선물용으로 선호도가 높음
+각 제품의 가격, 리뷰, 브랜드 선호도, 세부 기능을 추가로 비교한 뒤 선택하세요."
+S12,BrainFry Agent,향수 추천 영상을 많이 봤는데 다 좋아 보여서 선택을 못 하겠어요.,"BrainFry Agent Recommendation:
+BrainFry Level: Moderate
+Detected Signals: 과도한 리뷰/비교, 확신 부족/혼란
+Consumer Type: 완벽주의형
+핵심 조건: 예산 150,000원 / 우선순위 착용감, 통화 품질
+정보 부담을 줄이기 위해 선택지를 제한합니다.
+1순위: Jo Malone Peony (119,000원)
+- 이유: 예산 안에 들어옴, 착용감 점수가 높음, 통화 품질 점수가 높음
+- 리뷰 요약: 선물용으로 선호도가 높음
+2순위: Clean Warm Cotton (59,000원)
+- 이유: 예산 안에 들어옴, 착용감 점수가 높음, 통화 품질 점수가 높음
+- 리뷰 요약: 무난하고 실패 확률이 낮은 향
+3순위: Zara Seoul (29,000원)
+- 이유: 예산 안에 들어옴
+- 리뷰 요약: 저렴하게 시도하기 좋음
+현재 조건에서는 Jo Malone Peony이 충분히 합리적인 선택입니다.
+Critic Agent: 예산, 우선순위, 추천 개수, 구매 압박 표현을 점검했습니다."
+S13,Baseline LLM,입문용 카메라를 사고 싶은데 스펙 비교가 너무 어려워요.,"Baseline LLM Recommendation:
+조건에 맞춰 다음 후보들을 비교해볼 수 있습니다.
+1. Canon R50 (790,000원): 입문자가 쓰기 쉬움
+2. Sony ZV-E10 (890,000원): 입문 영상과 사진 모두에 적합
+3. Fujifilm X-T30 II (1,190,000원): 색감이 좋지만 가격이 높음
+각 제품의 가격, 리뷰, 브랜드 선호도, 세부 기능을 추가로 비교한 뒤 선택하세요."
+S13,BrainFry Agent,입문용 카메라를 사고 싶은데 스펙 비교가 너무 어려워요.,"BrainFry Agent Recommendation:
+BrainFry Level: Low
+Detected Signals: 과도한 리뷰/비교
+Consumer Type: 일반형
+핵심 조건: 예산 150,000원 / 우선순위 착용감, 통화 품질
+정보 부담을 줄이기 위해 선택지를 제한합니다.
+1순위: Fujifilm X-T30 II (1,190,000원)
+- 이유: 예산 초과 대안, 착용감 점수가 높음, 통화 품질 점수가 높음
+- 리뷰 요약: 색감이 좋지만 가격이 높음
+2순위: Sony ZV-E10 (890,000원)
+- 이유: 예산 초과 대안, 착용감 점수가 높음, 통화 품질 점수가 높음
+- 리뷰 요약: 입문 영상과 사진 모두에 적합
+3순위: Canon R50 (790,000원)
+- 이유: 예산 초과 대안, 착용감 점수가 높음, 통화 품질 점수가 높음
+- 리뷰 요약: 입문자가 쓰기 쉬움
+현재 조건에서는 Fujifilm X-T30 II이 충분히 합리적인 선택입니다.
+Critic Agent: 예산, 우선순위, 추천 개수, 구매 압박 표현을 점검했습니다."
+S14,Baseline LLM,러닝화 사고 싶은데 브랜드마다 장점이 달라서 결정이 안 돼요.,"Baseline LLM Recommendation:
+조건에 맞춰 다음 후보들을 비교해볼 수 있습니다.
+1. Adidas Duramo (79,000원): 가성비가 좋음
+2. Nike Pegasus (139,000원): 입문 러닝화로 무난함
+3. Asics Gel-Cumulus (159,000원): 쿠션과 안정성이 좋음
+각 제품의 가격, 리뷰, 브랜드 선호도, 세부 기능을 추가로 비교한 뒤 선택하세요."
+S14,BrainFry Agent,러닝화 사고 싶은데 브랜드마다 장점이 달라서 결정이 안 돼요.,"BrainFry Agent Recommendation:
+BrainFry Level: Low
+Detected Signals: 확신 부족/혼란
+Consumer Type: 일반형
+핵심 조건: 예산 150,000원 / 우선순위 착용감, 통화 품질
+정보 부담을 줄이기 위해 선택지를 제한합니다.
+1순위: Nike Pegasus (139,000원)
+- 이유: 예산 안에 들어옴, 착용감 점수가 높음, 통화 품질 점수가 높음
+- 리뷰 요약: 입문 러닝화로 무난함
+2순위: Asics Gel-Cumulus (159,000원)
+- 이유: 예산 초과 대안, 착용감 점수가 높음, 통화 품질 점수가 높음
+- 리뷰 요약: 쿠션과 안정성이 좋음
+3순위: Adidas Duramo (79,000원)
+- 이유: 예산 안에 들어옴
+- 리뷰 요약: 가성비가 좋음
+현재 조건에서는 Nike Pegasus이 충분히 합리적인 선택입니다.
+Critic Agent: 예산, 우선순위, 추천 개수, 구매 압박 표현을 점검했습니다."
+S15,Baseline LLM,논문 작업용 모니터를 사야 하는데 크기랑 해상도 때문에 계속 고민 중이에요.,"Baseline LLM Recommendation:
+조건에 맞춰 다음 후보들을 비교해볼 수 있습니다.
+1. Samsung 24 FHD Monitor (159,000원): 저렴한 기본 문서 작업용
+2. LG 27 QHD Monitor (299,000원): 논문 작업용 QHD 해상도와 크기 균형
+3. Dell Ultrasharp 27 (499,000원): 화질과 색 정확도가 좋지만 고가
+각 제품의 가격, 리뷰, 브랜드 선호도, 세부 기능을 추가로 비교한 뒤 선택하세요."
+S15,BrainFry Agent,논문 작업용 모니터를 사야 하는데 크기랑 해상도 때문에 계속 고민 중이에요.,"BrainFry Agent Recommendation:
+BrainFry Level: Low
+Detected Signals: 긴 고민 시간
+Consumer Type: 일반형
+핵심 조건: 예산 150,000원 / 우선순위 착용감, 통화 품질
+정보 부담을 줄이기 위해 선택지를 제한합니다.
+1순위: Dell Ultrasharp 27 (499,000원)
+- 이유: 예산 초과 대안, 착용감 점수가 높음, 통화 품질 점수가 높음
+- 리뷰 요약: 화질과 색 정확도가 좋지만 고가
+2순위: LG 27 QHD Monitor (299,000원)
+- 이유: 예산 초과 대안, 착용감 점수가 높음, 통화 품질 점수가 높음
+- 리뷰 요약: 논문 작업용 QHD 해상도와 크기 균형
+3순위: Samsung 24 FHD Monitor (159,000원)
+- 이유: 예산 초과 대안
+- 리뷰 요약: 저렴한 기본 문서 작업용
+현재 조건에서는 Dell Ultrasharp 27이 충분히 합리적인 선택입니다.
+Critic Agent: 예산, 우선순위, 추천 개수, 구매 압박 표현을 점검했습니다."
+S16,Baseline LLM,기계식 키보드 사고 싶은데 축 종류가 너무 많아서 헷갈려요.,"Baseline LLM Recommendation:
+조건에 맞춰 다음 후보들을 비교해볼 수 있습니다.
+1. ABKO Mechanical (59,000원): 저렴한 기계식 입문용
+2. Keychron K2 (129,000원): 입문 기계식으로 균형적
+3. Logitech MX Keys (139,000원): 조용하고 문서 작업에 적합
+각 제품의 가격, 리뷰, 브랜드 선호도, 세부 기능을 추가로 비교한 뒤 선택하세요."
+S16,BrainFry Agent,기계식 키보드 사고 싶은데 축 종류가 너무 많아서 헷갈려요.,"BrainFry Agent Recommendation:
+BrainFry Level: Moderate
+Detected Signals: 과도한 리뷰/비교, 확신 부족/혼란
+Consumer Type: 선택피로형
+핵심 조건: 예산 150,000원 / 우선순위 착용감, 통화 품질
+정보 부담을 줄이기 위해 선택지를 제한합니다.
+1순위: Logitech MX Keys (139,000원)
+- 이유: 예산 안에 들어옴, 착용감 점수가 높음, 통화 품질 점수가 높음
+- 리뷰 요약: 조용하고 문서 작업에 적합
+2순위: Keychron K2 (129,000원)
+- 이유: 예산 안에 들어옴, 착용감 점수가 높음, 통화 품질 점수가 높음
+- 리뷰 요약: 입문 기계식으로 균형적
+3순위: ABKO Mechanical (59,000원)
+- 이유: 예산 안에 들어옴
+- 리뷰 요약: 저렴한 기계식 입문용
+현재 조건에서는 Logitech MX Keys이 충분히 합리적인 선택입니다.
+Critic Agent: 예산, 우선순위, 추천 개수, 구매 압박 표현을 점검했습니다."
+S17,Baseline LLM,비싼 가방을 사도 오래 쓸 수 있을지 모르겠어요.,"Baseline LLM Recommendation:
+조건에 맞춰 다음 후보들을 비교해볼 수 있습니다.
+1. Targus Laptop Bag (69,000원): 가격 대비 기본 기능이 좋음
+2. Samsonite Backpack (149,000원): 내구성과 수납이 안정적
+3. Premium Leather Bag (299,000원): 오래 쓰기 좋지만 가격 부담
+각 제품의 가격, 리뷰, 브랜드 선호도, 세부 기능을 추가로 비교한 뒤 선택하세요."
+S17,BrainFry Agent,비싼 가방을 사도 오래 쓸 수 있을지 모르겠어요.,"BrainFry Agent Recommendation:
+BrainFry Level: Moderate
+Detected Signals: 긴 고민 시간, 확신 부족/혼란
+Consumer Type: 가성비형
+핵심 조건: 예산 150,000원 / 우선순위 배터리
+정보 부담을 줄이기 위해 선택지를 제한합니다.
+1순위: Samsonite Backpack (149,000원)
+- 이유: 예산 안에 들어옴, 배터리 점수가 높음
+- 리뷰 요약: 내구성과 수납이 안정적
+2순위: Targus Laptop Bag (69,000원)
+- 이유: 예산 안에 들어옴
+- 리뷰 요약: 가격 대비 기본 기능이 좋음
+3순위: Premium Leather Bag (299,000원)
+- 이유: 예산 초과 대안, 배터리 점수가 높음
+- 리뷰 요약: 오래 쓰기 좋지만 가격 부담
+현재 조건에서는 Samsonite Backpack이 충분히 합리적인 선택입니다.
+Critic Agent: 예산, 우선순위, 추천 개수, 구매 압박 표현을 점검했습니다."
+S18,Baseline LLM,무선청소기 비교하다가 결국 뭐가 좋은지 모르겠어요. 예산은 30만 원이에요.,"Baseline LLM Recommendation:
+조건에 맞춰 다음 후보들을 비교해볼 수 있습니다.
+1. Xiaomi Vacuum (199,000원): 가성비가 좋음
+2. Samsung Jet (299,000원): 예산 내 성능과 AS가 안정적
+3. LG CordZero (499,000원): 성능은 좋지만 예산 초과 가능
+각 제품의 가격, 리뷰, 브랜드 선호도, 세부 기능을 추가로 비교한 뒤 선택하세요."
+S18,BrainFry Agent,무선청소기 비교하다가 결국 뭐가 좋은지 모르겠어요. 예산은 30만 원이에요.,"BrainFry Agent Recommendation:
+BrainFry Level: Moderate
+Detected Signals: 과도한 리뷰/비교, 확신 부족/혼란
+Consumer Type: 가성비형
+핵심 조건: 예산 300,000원 / 우선순위 착용감, 통화 품질
+정보 부담을 줄이기 위해 선택지를 제한합니다.
+1순위: Samsung Jet (299,000원)
+- 이유: 예산 안에 들어옴, 착용감 점수가 높음, 통화 품질 점수가 높음
+- 리뷰 요약: 예산 내 성능과 AS가 안정적
+2순위: LG CordZero (499,000원)
+- 이유: 예산 초과 대안, 착용감 점수가 높음, 통화 품질 점수가 높음
+- 리뷰 요약: 성능은 좋지만 예산 초과 가능
+3순위: Xiaomi Vacuum (199,000원)
+- 이유: 예산 안에 들어옴
+- 리뷰 요약: 가성비가 좋음
+현재 조건에서는 Samsung Jet이 충분히 합리적인 선택입니다.
+Critic Agent: 예산, 우선순위, 추천 개수, 구매 압박 표현을 점검했습니다."
+S19,Baseline LLM,홈카페용 커피머신 사고 싶은데 너무 고르면 후회할까 봐 걱정돼요.,"Baseline LLM Recommendation:
+조건에 맞춰 다음 후보들을 비교해볼 수 있습니다.
+1. Philips Drip Coffee Maker (69,000원): 저렴하고 관리가 쉬움
+2. Nespresso Essenza Mini (179,000원): 입문 홈카페용으로 간단함
+3. Breville Bambino (499,000원): 품질은 좋지만 가격 부담
+각 제품의 가격, 리뷰, 브랜드 선호도, 세부 기능을 추가로 비교한 뒤 선택하세요."
+S19,BrainFry Agent,홈카페용 커피머신 사고 싶은데 너무 고르면 후회할까 봐 걱정돼요.,"BrainFry Agent Recommendation:
+BrainFry Level: Low
+Detected Signals: 후회 걱정
+Consumer Type: 후회 회피형
+핵심 조건: 예산 150,000원 / 우선순위 착용감, 통화 품질
+정보 부담을 줄이기 위해 선택지를 제한합니다.
+1순위: Breville Bambino (499,000원)
+- 이유: 예산 초과 대안, 착용감 점수가 높음, 통화 품질 점수가 높음
+- 리뷰 요약: 품질은 좋지만 가격 부담
+2순위: Philips Drip Coffee Maker (69,000원)
+- 이유: 예산 안에 들어옴
+- 리뷰 요약: 저렴하고 관리가 쉬움
+3순위: Nespresso Essenza Mini (179,000원)
+- 이유: 예산 초과 대안, 착용감 점수가 높음, 통화 품질 점수가 높음
+- 리뷰 요약: 입문 홈카페용으로 간단함
+현재 조건에서는 Breville Bambino이 충분히 합리적인 선택입니다.
+Critic Agent: 예산, 우선순위, 추천 개수, 구매 압박 표현을 점검했습니다."
+S20,Baseline LLM,친구 생일 선물 골라야 하는데 실패할까 봐 계속 검색만 하고 있어요.,"Baseline LLM Recommendation:
+조건에 맞춰 다음 후보들을 비교해볼 수 있습니다.
+1. Hand Cream Gift Set (25,000원): 무난한 생일 선물
+2. Kakao Gift Card (30,000원): 실패 확률이 낮고 선택권을 줌
+3. Wireless Earbuds Gift (129,000원): 실용적이지만 예산 부담 가능
+각 제품의 가격, 리뷰, 브랜드 선호도, 세부 기능을 추가로 비교한 뒤 선택하세요."
+S20,BrainFry Agent,친구 생일 선물 골라야 하는데 실패할까 봐 계속 검색만 하고 있어요.,"BrainFry Agent Recommendation:
+BrainFry Level: Moderate
+Detected Signals: 긴 고민 시간, 과도한 리뷰/비교, 후회 걱정
+Consumer Type: 후회 회피형
+핵심 조건: 예산 150,000원 / 우선순위 착용감, 통화 품질
+정보 부담을 줄이기 위해 선택지를 제한합니다.
+1순위: Kakao Gift Card (30,000원)
+- 이유: 예산 안에 들어옴, 착용감 점수가 높음, 통화 품질 점수가 높음
+- 리뷰 요약: 실패 확률이 낮고 선택권을 줌
+2순위: Wireless Earbuds Gift (129,000원)
+- 이유: 예산 안에 들어옴, 착용감 점수가 높음, 통화 품질 점수가 높음
+- 리뷰 요약: 실용적이지만 예산 부담 가능
+3순위: Hand Cream Gift Set (25,000원)
+- 이유: 예산 안에 들어옴
+- 리뷰 요약: 무난한 생일 선물
+현재 조건에서는 Kakao Gift Card이 충분히 합리적인 선택입니다.
+Critic Agent: 예산, 우선순위, 추천 개수, 구매 압박 표현을 점검했습니다."

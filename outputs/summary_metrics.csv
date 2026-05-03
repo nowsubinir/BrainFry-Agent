@@ -1,0 +1,4 @@
+﻿system,decision_ease,satisfaction,confidence,cognitive_load_reduction,explanation_quality,personalization,purchase_intention
+Baseline LLM,3.0,3.95,3.0,3.0,3.0,3.0,3.0
+BrainFry Agent,5.0,4.0,5.0,5.0,5.0,5.0,4.0
+Difference (Agent - Baseline),2.0,0.05,2.0,2.0,2.0,2.0,1.0

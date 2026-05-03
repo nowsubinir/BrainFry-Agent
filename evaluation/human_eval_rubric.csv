@@ -1,0 +1,8 @@
+metric,question,scale
+Decision Ease,이 추천은 결정을 쉽게 만들어주었는가?,"1=전혀 아니다, 5=매우 그렇다"
+Satisfaction,추천 결과에 만족하는가?,"1=전혀 아니다, 5=매우 그렇다"
+Confidence,이 추천을 바탕으로 구매 확신이 생겼는가?,"1=전혀 아니다, 5=매우 그렇다"
+Cognitive Load Reduction,정보 부담이 줄어들었는가?,"1=전혀 아니다, 5=매우 그렇다"
+Explanation Quality,추천 이유가 납득 가능하고 명확한가?,"1=전혀 아니다, 5=매우 그렇다"
+Personalization,사용자의 상황과 성향을 잘 반영했는가?,"1=전혀 아니다, 5=매우 그렇다"
+Purchase Intention,실제 구매 의향이 생겼는가?,"1=전혀 아니다, 5=매우 그렇다"
